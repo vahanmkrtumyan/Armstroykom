@@ -112,6 +112,10 @@ img {
   background-size: cover;
 }
 
+.serviceImage {
+  height: 231px;
+}
+
 .shadow,
 .button-cnt.shadow a {
   box-shadow: 0 2px 15px rgba(0, 0, 0, 0.13);
