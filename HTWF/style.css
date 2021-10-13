@@ -6205,6 +6205,7 @@ WORDPRESS
 }
 
 .search-results .advs-box {
+  height: 300px;
   width: 100%;
 }
 
